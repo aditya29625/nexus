@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row gap-3 text-center md:text-right">
           <a href="/" className="hover:text-red-500 transition">Home</a>
           <a href="https://github.com/aditya29625" target="_blank" rel="noreferrer" className="hover:text-red-500 transition">GitHub</a>
-          <a href="mailto:dhanrajsinghaditya@gmail.com" className="hover:text-red-500 transition">Contact</a>
+          <a href="mailto:dhanrajsinghaditiya@gmail.com" className="hover:text-red-500 transition">Contact</a>
           <a href="/privacy" className="hover:text-red-500 transition">Privacy</a>
         </div>
       </div>

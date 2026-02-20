@@ -494,7 +494,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ **Need Help? We Got You**
 
 
-- **📧 Email**: sksumitboss123@gmail.com
+ - **📧 Email**: dhanrajsinghaditiya@gmail.com
 - **🌟 Star This Repo**: Makes our day better
 
 ---
@@ -611,7 +611,7 @@ There might be some hidden features in NEXUS. Try these:
 
 ---
 
-### **Made by [@whatsupsumit](https://github.com/aditya29625/nexus)**
+### **Made by [@whatsupaditya](https://github.com/aditya29625/nexus)**
 *If you like this project, consider buying me a coffee (or just star the repo, that works too)* ⭐
 
 ---
