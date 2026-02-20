@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 **[WATCH NOW - iamnexus.vercel.app](https://iamnexus.vercel.app)**
+## 🚀 **[WATCH NOW - iamnexus.vercel.app](#)**
 
 ---
 
@@ -185,7 +185,7 @@ Copy and paste like a pro (30 seconds)
 
 1. **Clone this masterpiece**
    ```bash
-   git clone https://github.com/whatsupsumit/The-Nexus.git
+   git clone https://github.com/aditya29625/nexus
    cd The-Nexus
    ```
 
@@ -493,8 +493,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ **Need Help? We Got You**
 
-- **🐛 Found a Bug?**: [Open an Issue](https://github.com/whatsupsumit/The-Nexus/issues)
-- **💡 Feature Request?**: [Start a Discussion](https://github.com/whatsupsumit/The-Nexus/issues)
+
 - **📧 Email**: sksumitboss123@gmail.com
 - **🌟 Star This Repo**: Makes our day better
 
@@ -541,10 +540,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 **Important Links**
 
-- **🌐 Live Demo**: [iamnexus.vercel.app](https://iamnexus.vercel.app) ← Experience the magic
-- **💻 Repository**: [GitHub - The-Nexus](https://github.com/whatsupsumit/The-Nexus)
-- **🐛 Issues**: [Report Bugs Here](https://github.com/whatsupsumit/The-Nexus/issues)
-- **⭐ Star This Repo**: [Right Here](https://github.com/whatsupsumit/The-Nexus) (you know you want to)
+- **🌐 Live Demo**: [iamnexus.vercel.app](#) ← Experience the magic
+- **💻 Repository**: [GitHub - The-Nexus](https://github.com/aditya29625/nexus)
+
 
 ---
 
@@ -609,11 +607,11 @@ There might be some hidden features in NEXUS. Try these:
 
 ### **Experience Entertainment Like Never Before**
 
-**[🌟 STAR THIS REPO](https://github.com/whatsupsumit/The-Nexus)** | **[🐛 REPORT BUG](https://github.com/whatsupsumit/The-Nexus/issues)** | **[✨ REQUEST FEATURE](https://github.com/whatsupsumit/The-Nexus/issues)**
+**[🌟 STAR THIS REPO](https://github.com/aditya29625/nexus)** | **[🐛 REPORT BUG](https://github.com/aditya29625/nexus)** | **[✨ REQUEST FEATURE](https://github.com/aditya29625/nexus)**
 
 ---
 
-### **Made by [@whatsupsumit](https://github.com/whatsupsumit)**
+### **Made by [@whatsupsumit](https://github.com/aditya29625/nexus)**
 *If you like this project, consider buying me a coffee (or just star the repo, that works too)* ⭐
 
 ---
@@ -624,9 +622,6 @@ There might be some hidden features in NEXUS. Try these:
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=whatsupsumit.The-Nexus)
-![Stars](https://img.shields.io/github/stars/whatsupsumit/The-Nexus?style=social)
-![Forks](https://img.shields.io/github/forks/whatsupsumit/The-Nexus?style=social)
 
 **Last Updated**: October 2025 🚀
 
